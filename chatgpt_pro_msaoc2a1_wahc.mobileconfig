@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.webclip.clip.4A3CFD4C</string>
+            <key>PayloadUUID</key>
+            <string>4A3CFD4C-DB3F-401B-BFC7-F0D69DFC85BD</string>
+            <key>PayloadDisplayName</key>
+            <string>ChatGPT Pro</string>
+            <key>PayloadDescription</key>
+            <string>Web Clip shortcut for ChatGPT Pro</string>
+            <key>PayloadOrganization</key>
+            <string>OCG</string>
+            <key>URL</key>
+            <string>https://chatgpt.com</string>
+            <key>Label</key>
+            <string>ChatGPT Pro</string>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Precomposed</key>
+            <true/>
+            <key>Icon</key>
+            <data>
+            https://upload.wikimedia.org/wikipedia/commons/0/04/
+            ChatGPT_logo.svg
+            </data>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Custom WebClip Profile</string>
+    <key>PayloadDescription</key>
+    <string>Configuration profile for ChatGPT Pro iOS Web Clip</string>
+    <key>PayloadIdentifier</key>
+    <string>com.webclip.chatgptpro.1785607050880</string>
+    <key>PayloadOrganization</key>
+    <string>OCG</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>9C9EE5C3-C48A-473F-91DB-9A1C8A9B2365</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
